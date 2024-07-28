@@ -6,5 +6,6 @@ xhongc/music_tag_web:latest
 qdtoday/qd
 whyour/qinglong
 linuxserver/Heimdall
+ajnart/homarr
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
