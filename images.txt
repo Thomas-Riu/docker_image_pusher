@@ -5,7 +5,7 @@ deluan/navidrome
 xhongc/music_tag_web:latest
 qdtoday/qd
 whyour/qinglong
-ghcr.io/ajnart/homarr:latest
+ajnart/homarr:latest
 nginx
 homeassistant/home-assistant
 #支持指定架构
