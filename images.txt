@@ -8,5 +8,6 @@ qdtoday/qd
 whyour/qinglong
 nginx
 homeassistant/home-assistant
+helloxz/onenav
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
