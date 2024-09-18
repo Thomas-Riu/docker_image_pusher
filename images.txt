@@ -9,6 +9,6 @@ whyour/qinglong
 nginx
 homeassistant/home-assistant
 pub.tcp.mk/helloz/onenav:latest
-budtmo/docker-android:latest
+budtmo/docker-android:emulator_14.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
