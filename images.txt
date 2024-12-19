@@ -7,7 +7,7 @@ xhongc/music_tag_web:latest
 qdtoday/qd
 whyour/qinglong
 nginx
-homeassistant/home-assistant
+XiaoMi/ha_xiaomi_home
 pub.tcp.mk/helloz/onenav:latest
 budtmo/docker-android:emulator_14.0
 #支持指定架构
