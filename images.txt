@@ -7,8 +7,7 @@ xhongc/music_tag_web:latest
 qdtoday/qd
 whyour/qinglong
 nginx
-home-assistant/operating-system
-pub.tcp.mk/helloz/onenav:latest
-budtmo/docker-android:emulator_14.0
+homeassistant/home-assistant
+helloz/onenav:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
