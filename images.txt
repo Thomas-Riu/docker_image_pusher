@@ -8,6 +8,7 @@ qdtoday/qd
 whyour/qinglong
 nginx
 XiaoMi/ha_xiaomi_home
+home-assistant/operating-system
 pub.tcp.mk/helloz/onenav:latest
 budtmo/docker-android:emulator_14.0
 #支持指定架构
