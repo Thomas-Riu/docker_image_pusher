@@ -1,6 +1,6 @@
 
 #支持私库
-pch18-docker/baota
+pch18/baota
 xhofe/alist:latest
 ghcr.io/ajnart/homarr:latest
 deluan/navidrome
