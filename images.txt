@@ -1,6 +1,6 @@
 
 #支持私库
-aaPanel/BaoTa
+pch18-docker/baota
 xhofe/alist:latest
 ghcr.io/ajnart/homarr:latest
 deluan/navidrome
