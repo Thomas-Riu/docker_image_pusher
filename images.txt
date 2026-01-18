@@ -10,5 +10,6 @@ whyour/qinglong
 nginx
 homeassistant/home-assistant
 helloz/onenav:latest
+jellyfin/jellyfin
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
